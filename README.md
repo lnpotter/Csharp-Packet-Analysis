@@ -24,8 +24,8 @@ C#-Packet-Analysis is a C# application designed to capture and analyze network p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lnpotter/C#-Packet-Analysis.git
-   cd C#-Packet-Analysis
+   git clone https://github.com/lnpotter/Csharp-Packet-Analysis.git
+   cd Csharp-Packet-Analysis
    ```
 
 2. Install the required packages:
