@@ -1,0 +1,4 @@
+{
+    "ConnectionString": "Host=localhost;Username=your_username;Password=your_password;",
+    "CaptureDevice": "eth0"
+}
